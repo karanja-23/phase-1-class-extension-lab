@@ -34,7 +34,6 @@ calculate different properties of multiple shapes. We'll be using JavaScript's
 > side lengths.
 
 3. Define a `Square` class that inherits from `Polygon`.
-
 - It will automatically have access to `count` and `perimeter` inherited from
   `Polygon`.
 - Use the `get` keyword to make a getter method `isValid` that checks if the
